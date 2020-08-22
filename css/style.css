@@ -1,0 +1,226 @@
+/* PC's  */
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+
+}
+#home {
+	color: white;
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+.barra {
+    background: url(../img/fundo-nav.jpg) repeat-y;
+}
+
+a {
+    text-decoration: none;
+}
+.link {
+    text-decoration: none;
+    color: white;
+}
+/*
+#capa {
+    width: 1440px;
+    height: 800px;
+    margin: -20px;
+    position: static;
+}
+
+img {
+    position: relative;
+}
+header {
+    margin: 0 auto;
+    padding: 30px 20px 10px 20px;
+    height: 100px;
+    width: 1440px;
+    color: white;
+    background-color: gray;
+    text-align: left;
+    position: fixed;
+    opacity: 0.90;
+}
+
+#logo {
+    width: 600px; 
+    padding-left: 40px;
+    padding-top: 20px;
+}
+#logo p{
+    padding: 50px 0 0 10px;
+    float: left;
+    padding: 5px;
+    line-height: 40px;
+    font-size: 25px;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+#menu {
+    width: 460px;
+    float: right;
+    padding-right: 0;
+    padding-top: 10px;
+}
+
+#menu ul {
+    float: left;
+    display: inline;
+}
+
+#menu ul li {
+    float: left;
+    display: block;
+    list-style: none;
+    padding-right: 5px;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    text-shadow: white ; 
+    font-size: 25px;
+    padding: 2px;
+    float: right;
+}
+#menu ul li a:hover {
+    border: 2px double white;
+    border-style: solid none solid none;
+} 
+
+#bem-vindo {
+    width: 1440px;
+    height: 300px;
+    margin: 0 auto;
+    background: url(../img/boas-vindas.jpg) no-repeat left;
+}
+
+#bem-vindo p {
+    width: 600px;
+    float: left;
+    color: black;
+    font-size: large;
+}
+
+#perfil {
+    height: 650px;
+    width: 1440px;
+    margin: 50px 0 50px 0;
+    background: url(../img/fundo2.png) no-repeat right;
+    background-size: 1350px;
+}
+#perfil #foto {
+    background: url(../img/perfil.jpg) no-repeat center;
+    background-size: cover;
+    width: 500px;
+    height: 500px;
+    float: left;
+    margin: 100px 50px 50px 100px;
+}
+#perfil #texto-perfil {
+    width: 400px;
+    float: right;
+    color: gray;
+    font-size: 25px;
+    margin-right: 200px;
+    margin-top: 50px;
+    text-align: left;
+}
+#perfil #texto-perfil p {
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#perfil a {
+    text-decoration: none;
+    color: white;
+}
+#perfil button {
+    background-color: gray;
+    color: white;
+    width: 100px;
+    height: 40px;
+    margin-top: 50px;
+}
+#contato {
+    width: 1440px;
+    height: 500px;
+    background-color: gray;
+    opacity: 0.90;
+}
+#contato #formulario {
+    width: 700px;
+    margin: 50px;
+    float: left;
+    display: block;
+    font-size: 20px;
+}
+
+#contato #formulario form {
+    display: block;
+    float: left;
+}
+
+#contato #formulario form label {
+    margin-bottom: 0.2em;
+    display: block;
+}
+input[type="text"],
+input[type="email"], 
+textarea {
+    padding: 0.2em;
+    border: 1px solid #CCC;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    display: block;
+}
+
+.botao {
+    font-size: 20px;
+    background:gray;
+    border: 0;
+    margin: 10px 10px 10px 10px;
+    color: #FFF;
+    padding: 0.2em 0.6em;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+    display: block;
+}
+.botao:hover {
+    box-shadow: inset 2px 2px 2px rgba(0,0,0,0.2);
+    text-shadow: none;
+}
+
+
+footer {
+    background-color: gray;
+    opacity: 0.90;
+    margin: 0 auto;
+    width: 1440px;
+    height: 50px;
+    font-size: 14px;
+    text-align: left;
+    display: block;
+    padding-top: 10px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+footer #copy {
+    float: left;
+    width: 700px;
+}
+
+footer #redes-sociais {
+    float: right;
+    padding-top: 10px;  
+    width: 300px;
+}
+*/
